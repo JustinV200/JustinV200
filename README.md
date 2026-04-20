@@ -35,12 +35,17 @@
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img alt="statsmodels" src="https://img.shields.io/badge/statsmodels-3F4F75?style=for-the-badge&logoColor=white"/>
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white"/>
 </p>
 
 ### Tools & Platforms
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
@@ -68,6 +73,17 @@
     src="https://streak-stats.demolab.com/?user=JustinV200&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
+</p>
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/JustinV200/Keystroke-Synthesizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustinV200&repo=Keystroke-Synthesizer&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/JustinV200/ReGen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustinV200&repo=ReGen&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 ---
