@@ -8,9 +8,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I spend most of my time working on **machine learning projects**, data-driven applications, LLM pipelines, or whatever is currently catching my interest.
+- 🔭 Currently building a **keystroke dynamics synthesizer** using a multi-head DeBERTa model — applying heteroscedastic regression and statistical evaluation to generate realistic typing behavior
+- 📐 On the **AIE development team** building SQL schemas and REST API endpoints — moving into predictive analysis of student outcomes based on Agile/Scrum data
+- 💼 Incoming **Product Development Intern at Spinci Technologies**
 - 🧠 Deep interest in **PyTorch**, model training pipelines, and numerical computing
 - 💻 Primary languages: **Python** and **Java** — comfortable with many more
+- 🌲 When I'm not coding, you'll find me hiking, at the gym, cooking, painting my Warhammer 40k minis, or running Helldivers with my friends
 
 ---
 
