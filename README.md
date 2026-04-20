@@ -8,11 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I spend most of my time working on **machine learning projects** and data-driven applications
+- 🔭 I spend most of my time working on **machine learning projects**, data-driven applications, LLM pipelines, or whatever is currently catching my interest.
 - 🧠 Deep interest in **PyTorch**, model training pipelines, and numerical computing
 - 💻 Primary languages: **Python** and **Java** — comfortable with many more
-- 🌱 Always exploring new ML research, architectures, and tooling
-- ⚡ Fun fact: I probably have more Jupyter notebooks than I do browser bookmarks
 
 ---
 
@@ -36,11 +34,13 @@
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 ### Tools & Platforms
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
@@ -51,7 +51,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=JustinV200&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=JustinV200&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"
     alt="JustinV200's GitHub stats"
     height="170"
   />
