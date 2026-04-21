@@ -7,7 +7,7 @@
 ---
 
 ## 🙋‍♂️ About Me
-
+- 🎓 Current Junior at Bucknell University, working towards a **Computer Science in Engineering / Data Science Double Major **
 - 🔭 Currently building a **keystroke dynamics synthesizer** using a multi-head DeBERTa model — applying heteroscedastic regression and statistical evaluation to generate realistic typing behavior
 - 📐 On the **AIE development team** building SQL schemas and REST API endpoints — moving into predictive analysis of student outcomes based on Agile/Scrum data
 - 💼 Incoming **Product Development Intern at Spinci Technologies**
