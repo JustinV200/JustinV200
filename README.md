@@ -90,6 +90,9 @@
   <a href="https://github.com/JustinV200/ReGen">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustinV200&repo=ReGen&theme=tokyonight&hide_border=true"/>
   </a>
+  <a href="https://github.com/JustinV200/AutoVideoProducer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustinV200&repo=AutoVideoProducer&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 ---
