@@ -62,22 +62,22 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-ashen-five-96.vercel.app/api/top-langs/?username=JustinV200&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Jupyter%20Notebook"
-    alt="Top Languages"
-    height="170"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats-ashen-five-96.vercel.app/api?username=JustinV200&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"
-    alt="JustinV200's GitHub stats"
-    height="170"
+    src="https://streak-stats.demolab.com/?user=JustinV200&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=JustinV200&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-stats-ashen-five-96.vercel.app/api?username=JustinV200&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"
+    alt="JustinV200's GitHub stats"
+    height="170"
+  />
+  &nbsp;
+  <img
+    src="https://github-readme-stats-ashen-five-96.vercel.app/api/top-langs/?username=JustinV200&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Jupyter%20Notebook"
+    alt="Top Languages"
+    height="170"
   />
 </p>
 
